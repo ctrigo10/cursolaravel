@@ -1,0 +1,1 @@
+<h2>hola desde saludo_view.blade.php</h2>
